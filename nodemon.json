@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "ignore": ["*/*"],
+  "watch": ["index.js", "tools.js", ".env"],
+  "ext": "js,json,env"
+}
